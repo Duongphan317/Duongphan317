@@ -1,6 +1,6 @@
 - 👋 Hi, I’m a Vietnamese :)
 - 👀 I’m interested in IT field and related stuffs
-- 🌱 I’m currently learning Python (still a beginner tho)
+- 🌱 I’m currently learning programming (still a beginner tho)
 - Pretty good at Japanese and English
 - Nice to meet you!
 
